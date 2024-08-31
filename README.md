@@ -39,4 +39,4 @@ consts.ActionRegistry.Register(&actions.MintAsset{}, actions.UnmarshalMintAsset,
 10. To close your Local Avalanche Network run killall avalanche-network-runner.
 
 ## Author
-Pratap Singh
+HIMANSHU RAJAK[https://github.com/himanshkr03]
